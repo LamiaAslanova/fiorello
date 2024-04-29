@@ -1,0 +1,86 @@
+{"flowers" : [
+    {
+        "id":1,
+        "image": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-14-img.jpg",
+        "name": "Majesty Palm",
+        "price": 259,
+        "category": "popular"
+    },
+    {
+        "id":2,
+        "image": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-13-img.jpg",
+        "name": "Foxglove Flower",
+        "price": 259,
+        "category": "popular"
+    },
+    {
+        "id":3,
+        "image": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/shop-10-img.jpg",
+        "name": "Sweet Alyssum",
+        "price": 259,
+        "category": "winter"
+    },
+    {
+        "id":4,
+        "image": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-11-img.jpg",
+        "name": "Spring Snowflake",
+        "price": 170,
+        "category": "winter"
+    },
+    {
+        "id":5,
+        "image": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/shop-5-img.jpg",
+        "name": "Scarlet Sage",
+        "price": 159,
+        "category": "greens"
+    },
+    {
+        "id":6,
+        "image": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-9-img.jpg",
+        "name": "Rock Soapwort",
+        "price": 259,
+        "category": "cactuses"
+    },
+    {
+        "id":7,
+        "image": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-8-img.jpg",
+        "name": "Summer Savory",
+        "price": 259,
+        "category": "greens"
+    },
+    {
+        "id":8,
+        "image": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-7-img.jpg",
+        "name": "Wild Roses",
+        "price": 259,
+        "category": "exotic"
+    },
+    {
+        "id":9,
+        "image": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/shop-4-img.jpg",
+        "name": "Pink Flower Tree",
+        "price": 350,
+        "category": "various"
+    },
+    {
+        "id":10,
+        "image": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-3-img.jpg",
+        "name": "Cactus In Orange",
+        "price": 259,
+        "category": "cactuses"
+    },
+    {
+        "id":11,
+        "image": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/shop-2-img.jpg",
+        "name": "Orange Amaryllis",
+        "price": 259,
+        "category": "various"
+    },
+    {
+        "id":12,
+        "image": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/shop-6-img.jpg",
+        "name": "Colorful Tulips",
+        "price": 350,
+        "category": "exotic"
+    }
+]}
